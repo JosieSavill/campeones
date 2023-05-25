@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/campeones/static/css/main.073c9b0a.css",
+    "main.js": "/campeones/static/js/main.13067cbc.js",
+    "static/js/787.54cc6d7f.chunk.js": "/campeones/static/js/787.54cc6d7f.chunk.js",
+    "static/media/logo.svg": "/campeones/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/campeones/index.html",
+    "main.073c9b0a.css.map": "/campeones/static/css/main.073c9b0a.css.map",
+    "main.13067cbc.js.map": "/campeones/static/js/main.13067cbc.js.map",
+    "787.54cc6d7f.chunk.js.map": "/campeones/static/js/787.54cc6d7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.13067cbc.js"
+  ]
+}
